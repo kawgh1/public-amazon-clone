@@ -1,6 +1,9 @@
 -   ## Amazon clone
 
     -   based on course by Sonny Sangha
+    -   This is a public clone of a private repo I made for the course
+    -   There were private files with admin credentials that could not be hidden in a .env file
+    -   This is a copy of my private repo with credentials removed, everything else is the same
 
 -   ## Starting Build
 
@@ -28,9 +31,9 @@
 
 -   ## Stripe Checkout UI Flow
 
-    ![stripe-checkout](https://raw.githubusercontent.com/kawgh1/next-amazon-clone/main/stripe-checkout.png?token=APH3TEIJHPJMGMOUR6X2CKDBSOTCY)
-    ![checkout-success](https://raw.githubusercontent.com/kawgh1/next-amazon-clone/main/checkout-success.png?token=APH3TEL73WPS5NGH4HIJSDTBSOTNA)
-    ![orders-page](https://raw.githubusercontent.com/kawgh1/next-amazon-clone/main/orders-page.png?token=APH3TEPM3FGLLMHINCQXGT3BSOTOA)
+    ![stripe-checkout](https://raw.githubusercontent.com/kawgh1/public-amazon-clone/master/stripe-checkout.png)
+    ![checkout-success](https://raw.githubusercontent.com/kawgh1/public-amazon-clone/master/checkout-success.png)
+    ![orders-page](https://raw.githubusercontent.com/kawgh1/public-amazon-clone/master/orders-page.png)
 
 -   ## Tools Used
 
